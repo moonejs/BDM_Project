@@ -3,7 +3,7 @@
 Welcome to our **Business Data Management (BDM) Capstone Project** repository. This project is the final boss of our **Diploma**
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 **⚠️ Warning: This project may cause minor heart attacks. Proceed only if you have *strong hurt*. ☕💻**
 
