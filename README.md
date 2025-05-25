@@ -56,7 +56,7 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 
 ## 🔗 View My **The** Proposal
 
-[📄 Click here to view the full project proposal]()  
+[📄 Click here to view the full project proposal](Proposal(final).pdf)  
 ---
 
 ## 📝 TA Comments on my Proposal
