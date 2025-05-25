@@ -65,5 +65,11 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 
 ---
 
+### Need Help? Request a 1:1 Call!
+Send your request to [liteshbhaiya@gmail.com] with the subject line:
+"Rescue Me: BDM Capstone SOS" 
+
+---
+
 
 
