@@ -78,7 +78,7 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 
 ### View My Final Report 
 
-[ Click here to view the full Final report]Final-Report.pdf) 
+[ Click here to view the full Final report](Final-Report.pdf) 
 ---
 #### TA Comments on my **The** Final-Report 
 
