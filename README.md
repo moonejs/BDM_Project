@@ -65,6 +65,15 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 
 ---
 
+## View My **The** Mid-Term Report
+
+[Click here to view the Mid term report](Mid-Term.pdf)
+
+## TA Comments on my **The** Mid-Term Report
+
+*Hello, LITESH. Your report has been evaluated, and it has been accepted. These are my observations: 1.The executive summary is fine, but it would be better if you included the data collection period, analysis method, and outcomes. 2.Your business is unorganised, so it has accepted but provided proof is below average. 3.The metadata and descriptive statistics are fine. 4.• Figs 1, 2, and 3 are meaningless. You need to mention the percentage of each item. 5.In Fig. 4, the Y-axis does not have an axis name. 6. Fig. 5 is not needed. This information is presented in Fig. 6. 7.You need hard work in your final report. All graphs should be properly labelled with data. You have taken four problems in the proposal, so all these problems should be address*
+
+---
 ### Need Help? Request a 1:1 Call!
 Send your request to [liteshbhaiya@gmail.com] with the subject line:
 "Rescue Me: BDM Capstone SOS" 
