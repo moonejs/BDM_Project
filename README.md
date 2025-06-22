@@ -89,11 +89,9 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 
 #### [ Click here to view the PPT ](https://www.canva.com/design/DAGqTY-qVKU/8bEVf1zTqpJOKgmhivd3lg/view?utm_content=DAGqTY-qVKU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8512ea7fcb) 
 ---
-### Need Help? Request a 1:1 Call!
-Send your request to [liteshbhaiya@gmail.com] with the subject line:
-"Rescue Me: BDM Capstone SOS" 
 
----
+
+
 
 
 
