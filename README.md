@@ -1,11 +1,11 @@
-# 📊 BDM Capstone Project
+# BDM Capstone Project
 
 Welcome to our **Business Data Management (BDM) Capstone Project** repository. This project is the final boss of our **Diploma**
 ---
 
 ##  Project Overview
 
-**⚠️ Warning: This project may cause minor heart attacks. Proceed only if you have *strong hurt*. ☕💻**
+**Warning: This project may cause minor heart attacks. Proceed only if you have *strong hurt*.**
 
 
 ---
@@ -85,7 +85,10 @@ Define your problem, goals, methods, and timeline. Keep it sharp, honest, and pr
 *While the executive summary mentions "operational inefficiencies" as a cause for declining profitability, it could be more specific by briefly listing one or two key examples, such as inefficient irrigation or high labor dependency, which are detailed later in the report. The summary mentions "rising input costs" twice. It could be strengthened by briefly naming the most significant rising costs (e.g., diesel for irrigation, fertilizers) to give a clearer upfront picture. The recommendation section mentions improvements starting "from the next season." It would be helpful if the executive summary specified which season this refers to (e.g., "starting from the Paddy 2025 season"). In Detailed Explanation - When discussing error identification and correction, the report mentions, "Where verification wasn't possible, conservative estimates based on other crop cycles or typical local values were applied." It would be better to briefly explain what "conservative" means in this context (e.g., erring on the side of higher costs or lower yields for a baseline). The revenue calculation rightly excludes quantities retained for household use. However, it's worth briefly mentioning if the economic value of this retained quantity is considered elsewhere or if it's treated solely as a non-marketable portion. This could be relevant for a full picture of farm economics, even if not direct cash revenue. In Results and Findings - Table 1 shows 15 quintals of Wheat 2025 were stored at home. The text says this "reduced the quantity sold and final revenue." It should be clarified if this stored quantity was for later sale, personal consumption, or seed. If for later sale, the analysis might miss potential future revenue. If for consumption, its economic value could be noted. The report states, "This reflects a potential saving of up to ₹6,000 per crop cycle..." however, the comparison is for Paddy 2024 where traditional irrigation cost ₹15,084. DSR brings it to ₹9,000 (a saving of ₹6,084) and AWD to ₹10,000 (a saving of ₹5,084). The statement "up to ₹6,000" is accurate based on this specific comparison but could be more precise if linked directly to DSR. In Results and Recommendations - The interpretation mentions "missed profit opportunities" but only explicitly details the storage issue for Wheat 2025. It could briefly allude to other missed opportunities implied by the recommendations, like not using free manure or not engaging in collective purchasing. The problem statements are referred to in the text (e.g., "Problem Statement 1"). It would be helpful if these were explicitly numbered in the Executive Summary or early in the report where they are first introduced.*
 
 
+---
 
+#### [ Click here to view the PPT ](https://www.canva.com/design/DAGqTY-qVKU/8bEVf1zTqpJOKgmhivd3lg/view?utm_content=DAGqTY-qVKU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8512ea7fcb) 
+---
 ### Need Help? Request a 1:1 Call!
 Send your request to [liteshbhaiya@gmail.com] with the subject line:
 "Rescue Me: BDM Capstone SOS" 
